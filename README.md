@@ -46,8 +46,3 @@
   <!-- Add more badges for other social profiles -->
 </div>
 
-<div align="center">
-  <h2>📈 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussifTaha&show_icons=true" alt="Your GitHub Stats"/>
-  <!-- Add more images or stats cards -->
-</div>
